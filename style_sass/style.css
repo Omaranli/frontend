@@ -1,0 +1,22 @@
+html, body, ol, ul {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: "red";
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+p {
+  color: "blue";
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,18 @@
+@import 'reset';
+@import 'colors';
+@import 'mixin';
+
+h1{
+    color: $secondary;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    @include center;
+    height: 100vh;
+}
+
+p{
+    color: $primary;
+}
